@@ -47,14 +47,12 @@ I design and build scalable data platforms, reliable ETL/ELT pipelines, and anal
 - 🔹 **Data Warehouse Modernization**  
   Implemented dimensional models and optimized query performance for BI reporting.
 
-> Add your repository links here to showcase your best work.
-
 ---
 
 ## 📊 GitHub Stats
 
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrnnaveen&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nrnnaveen&layout=compact&theme=tokyonight)
+![GitHub statistics showing contribution activity and repositories](https://github-readme-stats.vercel.app/api?username=nrnnaveen&show_icons=true&theme=tokyonight)
+![Most used programming languages chart](https://github-readme-stats.vercel.app/api/top-langs/?username=nrnnaveen&layout=compact&theme=tokyonight)
 
 ---
 
